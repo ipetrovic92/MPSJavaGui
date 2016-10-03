@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="Element_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="JavaGuiLanguage.behavior.Element_BehaviorDescriptor" />
+    </file>
+    <file name="Frame_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="JavaGuiLanguage.behavior.Frame_BehaviorDescriptor" />
+    </file>
+    <file name="IntegerAttribute_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="JavaGuiLanguage.behavior.IntegerAttribute_BehaviorDescriptor" />
+    </file>
+    <file name="StringAttribute_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="JavaGuiLanguage.behavior.StringAttribute_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

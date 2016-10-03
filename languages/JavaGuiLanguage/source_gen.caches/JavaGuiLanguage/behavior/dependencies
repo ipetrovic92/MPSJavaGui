@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="JavaGuiLanguage.behavior.Element_BehaviorDescriptor" file="Element_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="JavaGuiLanguage.behavior.Frame_BehaviorDescriptor" file="Frame_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="JavaGuiLanguage.behavior.IntegerAttribute_BehaviorDescriptor" file="IntegerAttribute_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="JavaGuiLanguage.behavior.StringAttribute_BehaviorDescriptor" file="StringAttribute_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

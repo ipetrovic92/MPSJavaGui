@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:0975c21e-3e9c-449e-91b4-f936ec44755a(JavaGuiSolution.TestModel)/2870135645247615238">
+    <file name="Naslov.java">
+      <node id="2870135645247615238" at="18,0,19,0" concept="2" trace="contentPane" />
+      <node id="2870135645247615238" at="23,13,24,38" concept="4" />
+      <node id="2870135645247615238" at="24,38,25,33" concept="1" />
+      <node id="2870135645247615238" at="26,31,27,30" concept="1" />
+      <node id="2870135645247615238" at="33,19,34,51" concept="1" />
+      <node id="2870135645247615238" at="34,51,35,23" concept="1" />
+      <node id="2870135645247615238" at="35,23,36,34" concept="1" />
+      <node id="2870135645247615238" at="36,34,37,0" concept="6" />
+      <node id="2870135645247615238" at="37,0,38,31" concept="1" />
+      <node id="2870135645247615238" at="38,31,39,20" concept="1" />
+      <node id="2870135645247615238" at="39,20,40,0" concept="6" />
+      <node id="2870135645247615238" at="40,0,41,0" concept="6" />
+      <node id="2870135645247615238" at="44,42,45,31" concept="1" />
+      <node id="2870135645247615238" at="45,31,46,55" concept="1" />
+      <node id="2870135645247615238" at="46,55,47,67" concept="1" />
+      <node id="2870135645247615238" at="47,67,48,32" concept="1" />
+      <node id="2870135645247615238" at="51,31,52,44" concept="1" />
+      <node id="2870135645247615238" at="52,44,53,44" concept="1" />
+      <node id="2870135645247615238" at="53,44,54,44" concept="1" />
+      <node id="2870135645247615238" at="54,44,55,44" concept="1" />
+      <node id="2870135645247615238" at="58,43,59,38" concept="4" />
+      <node id="2870135645247615238" at="59,38,60,0" concept="6" />
+      <node id="2870135645247615238" at="60,0,61,34" concept="1" />
+      <node id="2870135645247615238" at="61,34,62,32" concept="1" />
+      <node id="2870135645247615238" at="62,32,63,30" concept="1" />
+      <node id="2870135645247615238" at="63,30,64,39" concept="1" />
+      <node id="2870135645247615238" at="64,39,65,21" concept="5" />
+      <node id="2870135645247615238" at="65,21,66,0" concept="6" />
+      <node id="2870135645247615238" at="68,43,69,36" concept="4" />
+      <node id="2870135645247615238" at="69,36,70,0" concept="6" />
+      <node id="2870135645247615238" at="70,0,71,33" concept="1" />
+      <node id="2870135645247615238" at="71,33,72,31" concept="1" />
+      <node id="2870135645247615238" at="72,31,73,30" concept="1" />
+      <node id="2870135645247615238" at="73,30,74,40" concept="1" />
+      <node id="2870135645247615238" at="74,40,75,21" concept="5" />
+      <node id="2870135645247615238" at="75,21,76,0" concept="6" />
+      <node id="2870135645247615238" at="78,43,79,44" concept="4" />
+      <node id="2870135645247615238" at="79,44,80,0" concept="6" />
+      <node id="2870135645247615238" at="80,0,81,34" concept="1" />
+      <node id="2870135645247615238" at="81,34,82,38" concept="1" />
+      <node id="2870135645247615238" at="82,38,83,21" concept="5" />
+      <node id="2870135645247615238" at="83,21,84,0" concept="6" />
+      <node id="2870135645247615238" at="86,43,87,38" concept="4" />
+      <node id="2870135645247615238" at="87,38,88,0" concept="6" />
+      <node id="2870135645247615238" at="88,0,89,34" concept="1" />
+      <node id="2870135645247615238" at="89,34,90,21" concept="5" />
+      <node id="2870135645247615238" at="90,21,91,0" concept="6" />
+      <node id="2870135645247615238" at="22,25,28,9" concept="8" />
+      <node id="2870135645247615238" at="44,0,50,0" concept="3" trace="setContentPaneProperties#()V" />
+      <node id="2870135645247615238" at="51,0,57,0" concept="3" trace="addNewElement#()V" />
+      <node id="2870135645247615238" at="86,0,93,0" concept="3" trace="createNewComponent_d#()Ljava/awt/Component;" />
+      <node id="2870135645247615238" at="22,0,30,0" concept="3" trace="run#()V" />
+      <node id="2870135645247615238" at="78,0,86,0" concept="3" trace="createNewComponent_c#()Ljava/awt/Component;" />
+      <node id="2870135645247615238" at="20,42,30,7" concept="1" />
+      <node id="2870135645247615238" at="33,0,43,0" concept="0" trace="Naslov#()V" />
+      <node id="2870135645247615238" at="58,0,68,0" concept="3" trace="createNewComponent_a#()Ljava/awt/Component;" />
+      <node id="2870135645247615238" at="68,0,78,0" concept="3" trace="createNewComponent_b#()Ljava/awt/Component;" />
+      <node id="2870135645247615238" at="20,0,32,0" concept="7" trace="main#([Ljava/lang/String;)V" />
+      <scope id="2870135645247615238" at="26,0,27,30">
+        <var name="e" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="26,31,27,30" />
+      <scope id="2870135645247615238" at="23,13,25,33">
+        <var name="frame" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="44,42,48,32" />
+      <scope id="2870135645247615238" at="51,31,55,44" />
+      <scope id="2870135645247615238" at="86,43,91,0">
+        <var name="component" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="22,25,28,9" />
+      <scope id="2870135645247615238" at="44,0,50,0" />
+      <scope id="2870135645247615238" at="51,0,57,0" />
+      <scope id="2870135645247615238" at="78,43,84,0">
+        <var name="component" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="86,0,93,0" />
+      <scope id="2870135645247615238" at="22,0,30,0" />
+      <scope id="2870135645247615238" at="33,19,41,0" />
+      <scope id="2870135645247615238" at="58,43,66,0">
+        <var name="component" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="68,43,76,0">
+        <var name="component" id="2870135645247615238" />
+      </scope>
+      <scope id="2870135645247615238" at="78,0,86,0" />
+      <scope id="2870135645247615238" at="20,42,30,7" />
+      <scope id="2870135645247615238" at="33,0,43,0" />
+      <scope id="2870135645247615238" at="58,0,68,0" />
+      <scope id="2870135645247615238" at="68,0,78,0" />
+      <scope id="2870135645247615238" at="20,0,32,0">
+        <var name="args" id="2870135645247615238" />
+      </scope>
+      <unit id="2870135645247615238" at="21,31,30,5" name="JavaGuiSolution.TestModel.Naslov$1" />
+      <unit id="2870135645247615238" at="16,0,94,0" name="JavaGuiSolution.TestModel.Naslov" />
+    </file>
+  </root>
+</debug-info>
+

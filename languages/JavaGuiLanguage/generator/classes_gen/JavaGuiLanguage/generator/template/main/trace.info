@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="21,0,236,0" name="JavaGuiLanguage.generator.template.main.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645247694293">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645247743818" at="34,50,35,189" concept="1" />
+      <node id="2870135645247763432" at="38,39,39,179" concept="1" />
+      <node id="2870135645247932282" at="45,50,46,189" concept="1" />
+      <node id="2870135645247932286" at="49,39,50,179" concept="1" />
+      <node id="2870135645249135117" at="56,50,57,186" concept="1" />
+      <node id="2870135645249135121" at="60,39,61,181" concept="1" />
+      <node id="2870135645249135144" at="67,50,68,186" concept="1" />
+      <node id="2870135645249135148" at="71,39,72,181" concept="1" />
+      <node id="2870135645249135171" at="78,50,79,186" concept="1" />
+      <node id="2870135645249135175" at="82,39,83,185" concept="1" />
+      <node id="2870135645249135198" at="89,50,90,186" concept="1" />
+      <node id="2870135645249135202" at="93,39,94,186" concept="1" />
+      <node id="2870135645249861264" at="138,109,139,98" concept="1" />
+      <node id="2870135645249135227" at="146,50,147,186" concept="1" />
+      <node id="2870135645249135231" at="150,39,151,181" concept="1" />
+      <node id="2870135645249135249" at="154,50,155,186" concept="1" />
+      <node id="2870135645249135253" at="158,39,159,181" concept="1" />
+      <node id="2870135645249135271" at="162,50,163,186" concept="1" />
+      <node id="2870135645249135275" at="166,39,167,185" concept="1" />
+      <node id="2870135645249135293" at="170,50,171,186" concept="1" />
+      <node id="2870135645249135297" at="174,39,175,186" concept="1" />
+      <node id="2870135645249915986" at="223,50,224,181" concept="1" />
+      <node id="2870135645249844917" at="230,50,231,181" concept="1" />
+      <node id="2870135645247743818" at="34,0,37,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645247761854" at="38,0,41,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645247932282" at="45,0,48,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645247932284" at="49,0,52,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135117" at="56,0,59,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135119" at="60,0,63,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135144" at="67,0,70,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135146" at="71,0,74,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135171" at="78,0,81,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135173" at="82,0,85,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135198" at="89,0,92,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135200" at="93,0,96,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135227" at="146,0,149,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135229" at="150,0,153,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135249" at="154,0,157,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135251" at="158,0,161,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135271" at="162,0,165,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135273" at="166,0,169,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249135293" at="170,0,173,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249135295" at="174,0,177,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249915986" at="223,0,226,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249844917" at="230,0,233,0" concept="0" trace="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+      <node id="2870135645249889147" at="221,120,226,7" concept="1" />
+      <node id="2870135645249816702" at="228,120,233,7" concept="1" />
+      <node id="2870135645247694981" at="32,112,41,133" concept="1" />
+      <node id="2870135645247932273" at="43,112,52,133" concept="1" />
+      <node id="2870135645249135108" at="54,112,63,133" concept="1" />
+      <node id="2870135645249135135" at="65,112,74,133" concept="1" />
+      <node id="2870135645249135162" at="76,112,85,133" concept="1" />
+      <node id="2870135645249135189" at="87,112,96,133" concept="1" />
+      <node id="2870135645249135215" at="144,94,177,16" concept="1" />
+      <scope id="2870135645247743818" at="34,50,35,189" />
+      <scope id="2870135645247761855" at="38,39,39,179" />
+      <scope id="2870135645247932282" at="45,50,46,189" />
+      <scope id="2870135645247932285" at="49,39,50,179" />
+      <scope id="2870135645249135117" at="56,50,57,186" />
+      <scope id="2870135645249135120" at="60,39,61,181" />
+      <scope id="2870135645249135144" at="67,50,68,186" />
+      <scope id="2870135645249135147" at="71,39,72,181" />
+      <scope id="2870135645249135171" at="78,50,79,186" />
+      <scope id="2870135645249135174" at="82,39,83,185" />
+      <scope id="2870135645249135198" at="89,50,90,186" />
+      <scope id="2870135645249135201" at="93,39,94,186" />
+      <scope id="2870135645249853456" at="138,109,139,98" />
+      <scope id="2870135645249135227" at="146,50,147,186" />
+      <scope id="2870135645249135230" at="150,39,151,181" />
+      <scope id="2870135645249135249" at="154,50,155,186" />
+      <scope id="2870135645249135252" at="158,39,159,181" />
+      <scope id="2870135645249135271" at="162,50,163,186" />
+      <scope id="2870135645249135274" at="166,39,167,185" />
+      <scope id="2870135645249135293" at="170,50,171,186" />
+      <scope id="2870135645249135296" at="174,39,175,186" />
+      <scope id="2870135645249915986" at="223,50,224,181" />
+      <scope id="2870135645249844917" at="230,50,231,181" />
+      <scope id="2870135645247743818" at="34,0,37,0">
+        <var name="it" id="2870135645247743818" />
+      </scope>
+      <scope id="2870135645247761854" at="38,0,41,0">
+        <var name="it" id="2870135645247761854" />
+      </scope>
+      <scope id="2870135645247932282" at="45,0,48,0">
+        <var name="it" id="2870135645247932282" />
+      </scope>
+      <scope id="2870135645247932284" at="49,0,52,0">
+        <var name="it" id="2870135645247932284" />
+      </scope>
+      <scope id="2870135645249135117" at="56,0,59,0">
+        <var name="it" id="2870135645249135117" />
+      </scope>
+      <scope id="2870135645249135119" at="60,0,63,0">
+        <var name="it" id="2870135645249135119" />
+      </scope>
+      <scope id="2870135645249135144" at="67,0,70,0">
+        <var name="it" id="2870135645249135144" />
+      </scope>
+      <scope id="2870135645249135146" at="71,0,74,0">
+        <var name="it" id="2870135645249135146" />
+      </scope>
+      <scope id="2870135645249135171" at="78,0,81,0">
+        <var name="it" id="2870135645249135171" />
+      </scope>
+      <scope id="2870135645249135173" at="82,0,85,0">
+        <var name="it" id="2870135645249135173" />
+      </scope>
+      <scope id="2870135645249135198" at="89,0,92,0">
+        <var name="it" id="2870135645249135198" />
+      </scope>
+      <scope id="2870135645249135200" at="93,0,96,0">
+        <var name="it" id="2870135645249135200" />
+      </scope>
+      <scope id="2870135645249135227" at="146,0,149,0">
+        <var name="it" id="2870135645249135227" />
+      </scope>
+      <scope id="2870135645249135229" at="150,0,153,0">
+        <var name="it" id="2870135645249135229" />
+      </scope>
+      <scope id="2870135645249135249" at="154,0,157,0">
+        <var name="it" id="2870135645249135249" />
+      </scope>
+      <scope id="2870135645249135251" at="158,0,161,0">
+        <var name="it" id="2870135645249135251" />
+      </scope>
+      <scope id="2870135645249135271" at="162,0,165,0">
+        <var name="it" id="2870135645249135271" />
+      </scope>
+      <scope id="2870135645249135273" at="166,0,169,0">
+        <var name="it" id="2870135645249135273" />
+      </scope>
+      <scope id="2870135645249135293" at="170,0,173,0">
+        <var name="it" id="2870135645249135293" />
+      </scope>
+      <scope id="2870135645249135295" at="174,0,177,0">
+        <var name="it" id="2870135645249135295" />
+      </scope>
+      <scope id="2870135645249915986" at="223,0,226,0">
+        <var name="it" id="2870135645249915986" />
+      </scope>
+      <scope id="2870135645249844917" at="230,0,233,0">
+        <var name="it" id="2870135645249844917" />
+      </scope>
+      <scope id="2870135645249877289" at="221,120,226,7" />
+      <scope id="2870135645249808151" at="228,120,233,7" />
+      <scope id="2870135645247694410" at="32,112,41,133" />
+      <scope id="2870135645247931689" at="43,112,52,133" />
+      <scope id="2870135645249135107" at="54,112,63,133" />
+      <scope id="2870135645249135134" at="65,112,74,133" />
+      <scope id="2870135645249135161" at="76,112,85,133" />
+      <scope id="2870135645249135188" at="87,112,96,133" />
+      <scope id="2870135645249135214" at="144,94,177,16" />
+      <unit id="2870135645247743818" at="33,256,37,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$1" />
+      <unit id="2870135645247761854" at="37,21,41,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$2" />
+      <unit id="2870135645247932282" at="44,256,48,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$3" />
+      <unit id="2870135645247932284" at="48,21,52,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$4" />
+      <unit id="2870135645249135117" at="55,257,59,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$5" />
+      <unit id="2870135645249135119" at="59,21,63,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$6" />
+      <unit id="2870135645249135144" at="66,257,70,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$7" />
+      <unit id="2870135645249135146" at="70,21,74,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$8" />
+      <unit id="2870135645249135171" at="77,257,81,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$9" />
+      <unit id="2870135645249135173" at="81,21,85,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$10" />
+      <unit id="2870135645249135198" at="88,257,92,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$11" />
+      <unit id="2870135645249135200" at="92,21,96,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$12" />
+      <unit id="2870135645249135227" at="145,227,149,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$17" />
+      <unit id="2870135645249135229" at="149,21,153,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$18" />
+      <unit id="2870135645249135249" at="153,235,157,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$19" />
+      <unit id="2870135645249135251" at="157,21,161,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$20" />
+      <unit id="2870135645249135271" at="161,235,165,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$21" />
+      <unit id="2870135645249135273" at="165,21,169,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$22" />
+      <unit id="2870135645249135293" at="169,235,173,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$23" />
+      <unit id="2870135645249135295" at="173,21,177,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$24" />
+      <unit id="2870135645249915986" at="222,226,226,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$31" />
+      <unit id="2870135645249844917" at="229,226,233,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$32" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645249486525">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645249531198" at="98,112,99,201" concept="1" />
+      <node id="2870135645249568639" at="141,109,142,186" concept="1" />
+      <node id="2870135645249519122" at="209,39,210,181" concept="1" />
+      <node id="2870135645250124115" at="216,39,217,184" concept="1" />
+      <node id="2870135645249518065" at="209,0,212,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250124113" at="216,0,219,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249494294" at="207,108,212,7" concept="1" />
+      <node id="2870135645250124107" at="214,108,219,7" concept="1" />
+      <scope id="2870135645249529628" at="98,112,99,201" />
+      <scope id="2870135645249568560" at="141,109,142,186" />
+      <scope id="2870135645249518066" at="209,39,210,181" />
+      <scope id="2870135645250124114" at="216,39,217,184" />
+      <scope id="2870135645249518065" at="209,0,212,0">
+        <var name="it" id="2870135645249518065" />
+      </scope>
+      <scope id="2870135645250124113" at="216,0,219,0">
+        <var name="it" id="2870135645250124113" />
+      </scope>
+      <scope id="2870135645249493860" at="207,108,212,7" />
+      <scope id="2870135645250124106" at="214,108,219,7" />
+      <unit id="2870135645249518065" at="208,238,212,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$29" />
+      <unit id="2870135645250124113" at="215,238,219,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$30" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645249601479">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645249673963" at="103,39,104,178" concept="1" />
+      <node id="2870135645249624079" at="108,112,109,72" concept="1" />
+      <node id="2870135645249646262" at="181,39,182,178" concept="1" />
+      <node id="2870135645249673961" at="103,0,106,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249646260" at="181,0,184,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645249673955" at="101,112,106,133" concept="1" />
+      <node id="2870135645249646254" at="179,94,184,16" concept="1" />
+      <scope id="2870135645249673962" at="103,39,104,178" />
+      <scope id="2870135645249622567" at="108,112,109,72" />
+      <scope id="2870135645249646261" at="181,39,182,178" />
+      <scope id="2870135645249673961" at="103,0,106,0">
+        <var name="it" id="2870135645249673961" />
+      </scope>
+      <scope id="2870135645249646260" at="181,0,184,0">
+        <var name="it" id="2870135645249646260" />
+      </scope>
+      <scope id="2870135645249671370" at="101,112,106,133" />
+      <scope id="2870135645249640726" at="179,94,184,16" />
+      <unit id="2870135645249673961" at="102,268,106,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$13" />
+      <unit id="2870135645249646260" at="180,239,184,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$25" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645249708031">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645249708529" at="23,110,24,192" concept="1" />
+      <node id="2870135645250614614" at="26,110,27,191" concept="1" />
+      <node id="2870135645250617266" at="29,110,30,196" concept="1" />
+      <scope id="2870135645249708068" at="23,110,24,192" />
+      <scope id="2870135645250614154" at="26,110,27,191" />
+      <scope id="2870135645250617256" at="29,110,30,196" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645250327486">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645250327514" at="113,39,114,178" concept="1" />
+      <node id="2870135645250327557" at="118,112,119,72" concept="1" />
+      <node id="2870135645250327536" at="188,39,189,178" concept="1" />
+      <node id="2870135645250327512" at="113,0,116,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250327534" at="188,0,191,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250327505" at="111,112,116,133" concept="1" />
+      <node id="2870135645250327527" at="186,94,191,16" concept="1" />
+      <scope id="2870135645250327513" at="113,39,114,178" />
+      <scope id="2870135645250327556" at="118,112,119,72" />
+      <scope id="2870135645250327535" at="188,39,189,178" />
+      <scope id="2870135645250327512" at="113,0,116,0">
+        <var name="it" id="2870135645250327512" />
+      </scope>
+      <scope id="2870135645250327534" at="188,0,191,0">
+        <var name="it" id="2870135645250327534" />
+      </scope>
+      <scope id="2870135645250327504" at="111,112,116,133" />
+      <scope id="2870135645250327526" at="186,94,191,16" />
+      <unit id="2870135645250327512" at="112,268,116,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$14" />
+      <unit id="2870135645250327534" at="187,239,191,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$26" />
+    </file>
+  </root>
+  <root nodeRef="r:7bafd66b-c097-4511-9365-78643f59673a(JavaGuiLanguage.generator.template.main@generator)/2870135645250335201">
+    <file name="QueriesGenerated.java">
+      <node id="2870135645250370298" at="123,39,124,183" concept="1" />
+      <node id="2870135645250335229" at="130,39,131,178" concept="1" />
+      <node id="2870135645250335272" at="135,112,136,72" concept="1" />
+      <node id="2870135645250353336" at="195,39,196,183" concept="1" />
+      <node id="2870135645250335251" at="202,39,203,178" concept="1" />
+      <node id="2870135645250370296" at="123,0,126,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250335227" at="130,0,133,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250353334" at="195,0,198,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250335249" at="202,0,205,0" concept="0" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="2870135645250370289" at="121,112,126,148" concept="1" />
+      <node id="2870135645250335220" at="128,112,133,133" concept="1" />
+      <node id="2870135645250353327" at="193,94,198,16" concept="1" />
+      <node id="2870135645250335242" at="200,94,205,16" concept="1" />
+      <scope id="2870135645250370297" at="123,39,124,183" />
+      <scope id="2870135645250335228" at="130,39,131,178" />
+      <scope id="2870135645250335271" at="135,112,136,72" />
+      <scope id="2870135645250353335" at="195,39,196,183" />
+      <scope id="2870135645250335250" at="202,39,203,178" />
+      <scope id="2870135645250370296" at="123,0,126,0">
+        <var name="it" id="2870135645250370296" />
+      </scope>
+      <scope id="2870135645250335227" at="130,0,133,0">
+        <var name="it" id="2870135645250335227" />
+      </scope>
+      <scope id="2870135645250353334" at="195,0,198,0">
+        <var name="it" id="2870135645250353334" />
+      </scope>
+      <scope id="2870135645250335249" at="202,0,205,0">
+        <var name="it" id="2870135645250335249" />
+      </scope>
+      <scope id="2870135645250368978" at="121,112,126,148" />
+      <scope id="2870135645250335219" at="128,112,133,133" />
+      <scope id="2870135645250353326" at="193,94,198,16" />
+      <scope id="2870135645250335241" at="200,94,205,16" />
+      <unit id="2870135645250370296" at="122,268,126,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$15" />
+      <unit id="2870135645250335227" at="129,268,133,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$16" />
+      <unit id="2870135645250353334" at="194,239,198,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$27" />
+      <unit id="2870135645250335249" at="201,239,205,5" name="JavaGuiLanguage.generator.template.main.QueriesGenerated$28" />
+    </file>
+  </root>
+</debug-info>
+
