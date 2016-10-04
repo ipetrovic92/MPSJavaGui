@@ -269,7 +269,7 @@
     </node>
     <node concept="2rT7sh" id="2vkLiACcqUA" role="2rTMjI">
       <property role="TrG5h" value="method_mapping" />
-      <ref role="2rZz_L" to="tpee:fIYIFWa" resolve="StaticMethodDeclaration" />
+      <ref role="2rZz_L" to="tpee:6LFqxSRBTg8" resolve="MethodDeclaration" />
     </node>
   </node>
   <node concept="312cEu" id="2vkLiACbenl">
